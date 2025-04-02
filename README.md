@@ -1,4 +1,4 @@
-![alt README header](<a href="https://ibb.co/nNQRmSqq"><img src="https://i.ibb.co/jP3HfF99/dark-free-shipp-1743633543.png" alt="dark-free-shipp-1743633543" border="0"></a>)
+<a href="https://ibb.co/nNQRmSqq"><img src="https://i.ibb.co/jP3HfF99/dark-free-shipp-1743633543.png" alt="dark-free-shipp-1743633543" border="0"></a>
 
 ## Web Developer (JS, NodeJS & Python)
 
