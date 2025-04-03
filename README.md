@@ -94,6 +94,8 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomartinze)
+
   
 
 <br/>  
