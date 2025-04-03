@@ -4,7 +4,8 @@
 
 
 ### **<div align="center">I'm Rodrigo, I would like to be the best at what I do, and I will keep learning until I achieve it.😅💻</div>**  
-<div class="tenor-gif-embed" data-postid="12160274951477317047" data-share-method="host" data-aspect-ratio="0.813253" data-width="100%"><a href="https://tenor.com/view/but-here%27s-the-coder-cat-gif-12160274951477317047">But Here&#39;S The Coder GIF</a>from <a href="https://tenor.com/search/but+here%27s+the-gifs">But Here&#39;S The GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>  
+<img src="https://tenor.com/es-419/view/but-here's-the-coder-cat-gif-12160274951477317047" width="300px">
+
 
 - 🔭 I’m currently working on amazom  
   
