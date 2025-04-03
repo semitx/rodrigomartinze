@@ -24,6 +24,12 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+## My Skill Set  
+<table><tr><td valign="top" width="33%">  
+<p style="color:#ff5733; font-size:18px;">🔥 Mis habilidades</p>
+</td></tr></table>
+
+
 
 
 ### I will learn  
