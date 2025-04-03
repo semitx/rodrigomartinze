@@ -1,7 +1,10 @@
 <div align="center">
 <img src="https://github.com/rodrigomartinze/rodrigomartinze/blob/main/dark-free-shipp_1743633543.png?raw=true" align="center" style="width: 100%" />
 </div>  
-  
+
+<p align="center">
+  <img src="https://lottiefiles.com/es/free-animation/programming-computer-wr6yLa2L3D"/>
+</p>
 
 ### **<div align="center">I'm Rodrigo, I would like to be the best at what I do, and I will keep learning until I achieve it.😅💻</div>**  
   
