@@ -3,7 +3,7 @@
 </div>  
 
 <p align="center">
-  <img src="https://lottiefiles.com/es/free-animation/programming-computer-wr6yLa2L3D"/>
+  <img src="https://lottie.host/ab8f75e5-8f37-4567-8628-9eb89e495c7c/sgm09FPro1.lottie"/>
 </p>
 
 ### **<div align="center">I'm Rodrigo, I would like to be the best at what I do, and I will keep learning until I achieve it.😅💻</div>**  
